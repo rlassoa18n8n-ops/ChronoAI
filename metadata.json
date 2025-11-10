@@ -1,0 +1,5 @@
+{
+  "name": "ChronoAI",
+  "description": "An AI-powered time analysis platform that allows users to upload calendar images, automatically classifying and quantifying time spent on projects. Features include personalized analysis, interactive visualizations, detailed reporting, and a conversational AI chat.",
+  "requestFramePermissions": []
+}
